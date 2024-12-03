@@ -1,10 +1,10 @@
-package org.messendger;
+package rainchik.messenger;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MessendgerApplicationTests {
+class MessengerApplicationTests {
 
     @Test
     void contextLoads() {
